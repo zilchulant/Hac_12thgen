@@ -46,13 +46,9 @@ This is my Creation of a bootable EFI with OpenCore on Intel Alder Lake with a G
 - :white_check_mark: CPU Stepping
 - :white_check_mark: CPU Sleep / Wakeup
 - :white_check_mark: GPU Acceleration
-- :white_check_mark: GPU Connection DP
-- :white_check_mark: GPU Connection HDMI
-- :white_check_mark: ALC1220 Audio Out
-- :white_check_mark: ALC1220 Audio In
+- :white_check_mark: ALC897 Audio
 - :white_check_mark: USB Ports
 - :white_check_mark: SSD NVMe
-- :white_check_mark: All Sensors
 - :white_check_mark: NVRAM (Native)
 
 ---
@@ -61,7 +57,7 @@ This is my Creation of a bootable EFI with OpenCore on Intel Alder Lake with a G
 
 # 3. Problems
 
-So far no problems.
+So far none.
 
 ---
 
